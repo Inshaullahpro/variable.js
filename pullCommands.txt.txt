@@ -1,0 +1,5 @@
+Testing data
+
+git clone "project-url": it is used to get github project to your local machine
+
+i.e git clone https://github.com/Inshaullahpro/variable.js.git 
